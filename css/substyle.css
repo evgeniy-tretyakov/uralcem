@@ -1,0 +1,8 @@
+
+.header div.contextual-links-wrapper {
+    top: 30px;
+    right: 0;
+}
+.header div.contextual-links-wrapper .block-configure.last {
+    margin-right: 30px;
+}
